@@ -1,4 +1,4 @@
-# Awesome Generative Engine Optimization (GEO) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re/)
+# Awesome Generative Engine Optimization (GEO) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re/) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 > A curated list of resources for optimizing content visibility in AI-powered search engines (ChatGPT, Perplexity, Google AI Overviews, Claude, etc.)
 
@@ -12,6 +12,8 @@
 - [Research & Papers](#research--papers)
 - [Technical Documentation](#technical-documentation)
 - [Monitoring & Analytics](#monitoring--analytics)
+- [Newsletters & Blogs](#newsletters--blogs)
+- [Videos & Podcasts](#videos--podcasts)
 - [Communities & Forums](#communities--forums)
 - [Conferences & Events](#conferences--events)
 - [Industry Analysis](#industry-analysis)
@@ -86,6 +88,8 @@ Purpose-built platforms for AI search optimization, monitoring, and brand visibi
 - [Rankshift](https://rankshift.com/) - Position tracking and visibility monitoring for AI-powered search platforms.
 - [Scrunch AI](https://scrunch.ai/) - Agent Experience Platform (AXP) for making websites legible to AI engines. Monitoring and active optimization.
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
+- [Knowatoa](https://knowatoa.com/) - AI search analytics platform tracking brand mentions across ChatGPT, Claude, and Perplexity.
+- [Daydream](https://www.withdaydream.com/) - AI visibility optimization platform with focus on content discoverability.
 
 ### Enterprise SEO Platforms with GEO Features
 
@@ -139,16 +143,19 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 ### llms.txt Protocol
 
+#### Specification & Guides
 - [llms.txt Specification](https://github.com/AnswerDotAI/llms-txt) - Official standard by Jeremy Howard.
+- [What Is llms.txt?](https://ahrefs.com/blog/what-is-llms-txt/) - Ahrefs implementation guide.
+- [LLMs.txt Technical Deep Dive](https://towardsdatascience.com/llms-txt-414d5121bcb3/) - Protocol analysis.
+- [The Value of llms.txt: Hype or Real?](https://www.mintlify.com/blog/the-value-of-llms-txt-hype-or-real) - Critical analysis of adoption drivers and barriers.
+- [Google A2A Protocol](https://developers.google.com/search/docs/crawling-indexing/a2a-protocol) - Google's Author-to-AI protocol includes llms.txt support.
+
+#### Adoption & Directories
 - [LLMS.txt Adoption Research Report 2025](https://www.rankability.com/data/llms-txt-adoption/) - Updated monthly tracking showing 784+ websites implementing llms.txt/llms-full.txt (0.3% of top 1,000 websites as of June 2025).
 - [Companies Using llms.txt](https://llms-txt.io/blog/companies-using-llms-txt-examples) - Implementations by Zapier, Stripe, Cloudflare, Anthropic, Vercel, Supabase, ElevenLabs.
 - [Who is Using llms.txt?](https://www.llms-text.com/blog/sites-using-llms-txt) - Examples and adoption patterns across AI/ML, Developer Tools, and SaaS sectors.
 - [llms.txt Directory](https://directory.llmstxt.cloud/) - Community-driven directory of implementations.
-- [What Is llms.txt?](https://ahrefs.com/blog/what-is-llms-txt/) - Ahrefs implementation guide.
-- [LLMs.txt Technical Deep Dive](https://towardsdatascience.com/llms-txt-414d5121bcb3/) - Protocol analysis.
-- [The Value of llms.txt: Hype or Real?](https://www.mintlify.com/blog/the-value-of-llms-txt-hype-or-real) - Critical analysis of adoption drivers and barriers.
 - [LLMSDB](https://llmsdb.com) - Directory of llms.txt files.
-- [Google A2A Protocol](https://developers.google.com/search/docs/crawling-indexing/a2a-protocol) - Google's Author-to-AI protocol includes llms.txt support.
 
 ### AI Crawlers
 
@@ -180,13 +187,59 @@ Major SEO platforms that have added AI search optimization capabilities:
 
 
 
+## Newsletters & Blogs
+
+### Newsletters
+
+- [GEO Weekly](https://www.linkedin.com/newsletters/geo-weekly-7284936478098464769/) - Weekly newsletter covering GEO trends, tools, and strategies.
+- [SEO for AI Newsletter](https://www.seoforai.io/newsletter) - Focused coverage of AI search optimization developments.
+- [The AI SEO Brief](https://theaiseobrief.com/) - Curated AI SEO news and insights delivered weekly.
+
+### Blogs to Follow
+
+- [Search Engine Land AI Coverage](https://searchengineland.com/library/platforms/ai-platforms) - Authoritative coverage of AI search developments.
+- [Ahrefs Blog](https://ahrefs.com/blog/) - Regular GEO research studies and data analysis.
+- [SEMrush Blog](https://www.semrush.com/blog/) - AI Overviews studies and platform updates.
+- [Profound Blog](https://www.tryprofound.com/blog) - Enterprise GEO insights and research.
+- [Otterly AI Blog](https://otterly.ai/blog/) - AI citation analysis and platform comparisons.
+- [Rankability Blog](https://www.rankability.com/blog/) - llms.txt adoption tracking and GEO research.
+
+
+
+## Videos & Podcasts
+
+### YouTube Channels & Videos
+
+- [How to Rank in ChatGPT and AI Search](https://www.youtube.com/watch?v=xYcXcAhCVjA) - Matt Diggity comprehensive GEO guide.
+- [AI Overviews SEO Strategy](https://www.youtube.com/watch?v=NVqrWbVTgDc) - Ahrefs breakdown of AI Overview optimization.
+- [GEO Explained in 10 Minutes](https://www.youtube.com/watch?v=pJwHf0WqADI) - Quick introduction to Generative Engine Optimization concepts.
+
+### Podcasts
+
+- [Search Off the Record](https://developers.google.com/search/podcasts/search-off-the-record) - Google's official podcast covering search including AI developments.
+- [Niche Pursuits Podcast](https://www.nichepursuits.com/podcast/) - Covers AI SEO and content optimization strategies.
+- [Authority Hacker Podcast](https://www.authorityhacker.com/podcast/) - Regular episodes on AI search impact and optimization.
+
+
+
 ## Communities & Forums
+
+### GEO-Specific Communities
+
+- [r/GEO_ai](https://www.reddit.com/r/GEO_ai/) - Subreddit dedicated to Generative Engine Optimization discussions.
+- [GEO LinkedIn Groups](https://www.linkedin.com/groups/) - Search for "Generative Engine Optimization" or "AI SEO" groups for professional discussions.
+- [GEO Conference Community](https://www.geo-conference.com/) - Community around the dedicated GEO conference.
+
+### Platforms for Building AI Visibility
+
+These platforms are frequently cited by AI engines - building presence here improves GEO:
 
 - [Reddit](https://reddit.com/) - Critical for Perplexity optimization (46.7% of citations). Focus on relevant subreddits in your industry.
 - [Hacker News](https://news.ycombinator.com/) - Highly authoritative for tech and startup content. Frequently cited by AI engines.
 - [Stack Overflow](https://stackoverflow.com/) - Developer-focused. Essential for technical product visibility.
 - [Quora](https://quora.com/) - Question-answer format aligns well with AI search patterns.
 - [Product Hunt](https://www.producthunt.com/) - Product launches and discussions cited for product recommendations.
+- [Wikipedia](https://www.wikipedia.org/) - Dominates ChatGPT citations at 47.9% of top citations. Creating/maintaining accurate Wikipedia presence is critical for GEO.
 
 
 
@@ -251,6 +304,7 @@ Agencies offering dedicated generative engine optimization services:
 ### Other Awesome Lists
 
 - [Awesome-GEO by DavidHuji](https://github.com/DavidHuji/Awesome-GEO) - Research-focused GEO paper collection.
+- [Awesome SEO](https://github.com/teles/awesome-seo) - Traditional SEO resources that complement GEO strategies.
 
 ## Footnotes
 
@@ -286,4 +340,4 @@ While GEO shares foundations with SEO (quality content, technical optimization, 
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
