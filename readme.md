@@ -71,20 +71,16 @@
 
 Purpose-built platforms for AI search optimization, monitoring, and brand visibility:
 
-- [AI Monitor](https://aimonitor.io/) - Real-time alerts with sentiment analysis across ChatGPT, Claude, Bing AI, Google AI Overviews.
-- [Airank](https://airank.io/) - Entity mapping and knowledge graph optimization for AI search engines.
-- [Am I On AI](https://amiontai.com/) - Quick checker to see if your brand appears in major AI search results.
 - [AthenaHQ](https://www.athenahq.ai/) - Y Combinator-backed. Founded by ex-Google Search and DeepMind leaders. Unified GEO scoring. Claims 70+ customers with 10× AI traffic increases.
 - [Bluefish AI](https://bluefishai.com/) - $5M funded. Specializes in brand safety and source attribution. "Source graph" showing how Wikipedia, forums, PDFs influence outputs. AI ad campaigns.
-- [DeepSERP](https://deepserp.com/) - Specialized crawl audits and technical analysis for AI search engine visibility.
 - [GenRank](https://genrank.io/) - Timeline visualization and competitor benchmarking for AI visibility trends.
-- [Goodie AI](https://goodie.ai/) - Leading AI-native GEO platform founded by experts from major tech companies. Comprehensive suite of GEO optimization and monitoring tools.
-- [LLM Scout](https://llmscout.com/) - Discovery and tracking tool for LLM mentions and citations.
-- [LLMOmetrics](https://llmometrics.com/) - Hallucination detection and fixing for improved AI citation accuracy.
+- [Goodie](https://higoodie.com/) - Leading AI-native GEO platform founded by experts from major tech companies. Comprehensive suite of GEO optimization and monitoring tools.
+- [GEOmetrics](https://trygeometrics.com/) - Hallucination detection and fixing for improved AI citation accuracy.
 - [Otterly.AI](https://otterly.ai/) - Focused on link citation analysis for Google AI Overview and Perplexity. Timeline tracking and competitive benchmarking.
+- [Peasy](https://peasy.so/) - Specialized crawl audits and technical analysis for AI search engine visibility.
 - [Peec.ai](https://peec.ai/) - AI search visibility platform with competitive analysis and optimization recommendations.
 - [Profound](https://www.tryprofound.com/) - Enterprise benchmark platform. $35M Series B (Sequoia Capital). Tracks ChatGPT, Claude, Perplexity, Gemini. Share of voice, sentiment analysis, prompt-level rankings.
-- [Rankscale](https://rankscale.com/) - AI-first SEO platform with GEO capabilities for enterprise brands.
+- [Rankscale](https://rankscale.ai/) - AI-first SEO platform with GEO capabilities for enterprise brands.
 - [Rankshift](https://rankshift.com/) - Position tracking and visibility monitoring for AI-powered search platforms.
 - [Scrunch AI](https://scrunch.ai/) - Agent Experience Platform (AXP) for making websites legible to AI engines. Monitoring and active optimization.
 - [ZipTie](https://ziptie.ai/) - Brand visibility monitoring across generative AI platforms with detailed breakdowns.
