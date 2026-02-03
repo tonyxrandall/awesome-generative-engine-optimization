@@ -158,6 +158,8 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [Who is Using llms.txt?](https://www.llms-text.com/blog/sites-using-llms-txt) - Examples and adoption patterns across AI/ML, Developer Tools, and SaaS sectors.
 - [llms.txt Directory](https://directory.llmstxt.cloud/) - Community-driven directory of implementations.
 - [LLMSDB](https://llmsdb.com) - Directory of llms.txt files.
+- [llmstxt.directory](https://llmstxt.directory) - Directory of llms.txt files.
+- [Stackfox AI Bots](https://stackfox.co/bots) - Directory of AI bots and crawlers.
 
 ### AI Crawlers
 
